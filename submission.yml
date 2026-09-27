@@ -1,0 +1,18 @@
+student_name: "Muhammadjon Asoev"
+lab: "Week 03 - Requirements Engineering with AI"
+branch: "week-03"
+model_used: "GPT-4o"
+ai_policy_level: "Level D"
+checkers:
+  check_requirements: "PASSED"
+  validate_submission: "PASSED"
+  error_count: 0
+  warning_count: 0
+deliverables:
+  - "lab-report.md"
+  - "AI_USAGE.md"
+  - "submission.yml"
+  - "requirements/user-stories.md"
+  - "acceptance-criteria.md"
+  - "use-cases.puml"
+  - "traceability.md"
